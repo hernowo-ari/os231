@@ -5,9 +5,8 @@ permalink: /LINKS/
 [GITHUB](https://github.com/cbkadal/os231/) ---
 [LOG](TXT/mylog.txt) ---
 [LINKS]({{ site.baseurl }}/LINKS/)
-
 <br>
-
+---
 # LINKS
 
 1. [Bash scripting cheatsheet](https://devhints.io/bash)<br>
