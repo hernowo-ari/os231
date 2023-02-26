@@ -1,13 +1,12 @@
 ---
 permalink: /LINKS/
 ---
+<br><br>
+[GITHUB](https://github.com/cbkadal/os231/) ---
+[LOG](TXT/mylog.txt) ---
+[LINKS]({{ site.baseurl }}/LINKS/)
+
 <br>
-[HOME]({{ site.baseurl }}/) ---
-[LOG]({{ site.myloglink }}) ---
-[LINKS]({{ site.baseurl }}/LINKS/) ---
-[GITHUB]({{ site.githublink }})
-<br>
-<hr>
 
 # LINKS
 
