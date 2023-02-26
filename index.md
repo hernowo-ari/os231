@@ -7,6 +7,6 @@
 
 Hello, welcome!
 
-I am {{ site.author }} and this is my GitHub Page for Operating System 231.
+I am Hernowo and this is my GitHub Page for Operating System 231.
 
 
