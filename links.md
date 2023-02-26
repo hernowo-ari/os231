@@ -1,5 +1,5 @@
 ---
-permalink: LINKS/
+permalink: /LINKS/
 ---
 <br>
 [HOME]({{ site.baseurl }}/) ---

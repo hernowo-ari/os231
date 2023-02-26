@@ -1,8 +1,8 @@
 <br><br>
 [HOME]({{ site.baseurl }}/) ---
-[LOG]({{ site.myloglink }}) ---
+[LOG]({{ site.myloglink }}/) ---
 [LINKS]({{ site.baseurl }}/LINKS/) ---
-[GITHUB]({{ site.githublink }})
+[GITHUB]({{ site.githublink }}/)
 <br>
 
 Hello, welcome!
