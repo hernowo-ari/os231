@@ -16,5 +16,8 @@ You can learn parameter expansions, loops, functions, conditionals and many more
 2. [10 Linux Terminal Commands for Beginners](https://youtu.be/CpTfQ-q6MPU)<br>
 I'm going to have to come back to this often. Concise and clear
 
+3. [10 Git Tips](https://dev.to/yenyih/10-useful-git-tips-to-improve-your-workflow-kf1)<br>
+Nice tips to learn about Git!
+
 <br>
 <hr>
