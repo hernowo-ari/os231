@@ -42,5 +42,17 @@ This website summarize GPG command on terminal.
 9. [Belajar C-Language dengan bemain!!!](www.codingame.com)<br>
 More way to learn about C Programming Language.
 
+### **WEEK 05**
+10. [Virtual Memory??](https://www.youtube.com/watch?v=qeOBEOBJREs)<br>
+If you are in hurry, this video tells about Virtual Memory in 2 minutes.
+
+11. [Physical vs Virtual Memory](https://pediaa.com/what-is-the-difference-between-physical-and-virtual-memory)<br>
+Difference between Physical vs Virtual Memory.
+
+12. [Thrashing](http://www.thrashing.com/thrashing-in-computer-science.html)<br>
+This tells you about Thrashing in class.
+
+13. [What is BUDDY MEMORY ALLOCATION?](https://www.youtube.com/watch?v=j9sOpKm5goQ)<br>
+What is Memory Allocation? learn from here. 
 <br>
 <hr>
