@@ -53,6 +53,17 @@ Difference between Physical vs Virtual Memory.
 This tells you about Thrashing in class.
 
 13. [What is BUDDY MEMORY ALLOCATION?](https://www.youtube.com/watch?v=j9sOpKm5goQ)<br>
-What is Memory Allocation? learn from here. 
+What is Memory Allocation? learn from here.
+
+### **WEEK 06**
+11. [fork() System Calls](https://www.youtube.com/watch?v=IFEFVXvjiHY&ab_channel=NesoAcademy)<br>
+Watch this video and get an extra explanation about exec function. 
+
+12. [Race condition](https://searchstorage.techtarget.com/definition/race-condition)<br>
+What can be caused by race condition? Read this article and find out how to prevent it.
+
+13. [Process vs thread](https://www.guru99.com/difference-between-process-and-thread.html)<br>
+What is process? What is thread? Maybe this site can help you!
+
 <br>
 <hr>
