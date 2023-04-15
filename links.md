@@ -65,5 +65,15 @@ What can be caused by race condition? Read this article and find out how to prev
 13. [Process vs thread](https://www.guru99.com/difference-between-process-and-thread.html)<br>
 What is process? What is thread? Maybe this site can help you!
 
+### **WEEK07**
+14. [Race condition](https://searchstorage.techtarget.com/definition/race-condition)<br>
+What exactly is race condition? How to prevent it ?
+
+15. [Semaphore?](https://www.guru99.com/semaphore-in-operating-system.html)<br>
+What actually happens when you call wait() and post()?
+
+16. [Introduction of Deadlock in OS](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
+What happens if a process is waiting for another process?
+ 
 <br>
 <hr>
