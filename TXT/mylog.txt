@@ -45,6 +45,6 @@ ZCZC W08 10 L05 QUIZ
 ZCZC W08 120 L09 Weekly Assignments
 ZCZC W08 30 L22 Linux CLI including tar, etc.
 ZCZC W08 10 L08 OS Chat related
-ZCZC W08 50 L62 Install/Reinstall/Restore/Backup Virtual Debian Guest
+ZCZC W08 50 L62 Backup Virtual Debian Guest
 ZCZC W08 30 L63 Fixing Hardware Problems
 
