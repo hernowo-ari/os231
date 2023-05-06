@@ -74,6 +74,16 @@ What actually happens when you call wait() and post()?
 
 16. [Introduction of Deadlock in OS](https://www.geeksforgeeks.org/introduction-of-deadlock-in-operating-system/)<br>
 What happens if a process is waiting for another process?
- 
+
+### **WEEK08**
+17. [Comparison of Scheduling Algorithms](https://unacademy.com/lesson/comparison-of-scheduling-algorithms/BYKW5NJZ)<br>
+This video explains pros and cons of each scheduling algorithm.
+
+18. [Kernotex’s YouTube LFS 11.3 PlayList](https://www.youtube.com/playlist?list=PLyc5xVO2uDsB4gJ2dPySvs2eK_roFwKeb)<br>
+This playlist help me to do the assignment.
+
+19. [What is Shortest-Job-First scheduling algorithm?](https://www.studytonight.com/operating-system/shortest-job-first)<br>
+This website explains shortest job algorithm and has nice UX too.
+
 <br>
 <hr>
