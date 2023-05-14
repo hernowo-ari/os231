@@ -92,5 +92,8 @@ I found some solutions to problems from here.
 21. [Linux From Scratch](https://www.linuxfromscratch.org/lfs/)<br>
 This link is very very useful for everyone attending OS since this weeks assignment is based on Linux from scratch website.
 
+22. [Redundant Arrays of Independent Disks](https://www.geeksforgeeks.org/raid-redundant-arrays-of-independent-disks/)<br>
+What is RAID and what are its benefits? Let's find out the types of RAID and the differences between each type.
+
 <br>
 <hr>
